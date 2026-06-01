@@ -29,6 +29,3 @@ No GitHub, clique na engrenagem de **About** do repositório e adicione o topic:
 agrinho
 ```
 
-## Autor
-
-Documento gerado por Oito.
